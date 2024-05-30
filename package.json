@@ -1,0 +1,23 @@
+{
+    "name": "ejercicios",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "ejercicio": "area.js",
+      "ejercicio1": "contador.js",
+      "ejercicio3": "contraseña.js",
+      "ejercicio4": "factorial.js",
+      "ejercicio5": "filtrar.js",
+      "ejercicio6": "impuesto.js",
+      "ejercicio7": "multiplicar.js",
+      "ejercicio8": "ordenar_array.js",
+      "ejercicio9": "palindromo.js",
+      "ejercicio10": "suma.js"
+     
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
